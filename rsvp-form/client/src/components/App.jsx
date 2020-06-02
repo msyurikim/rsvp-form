@@ -1,5 +1,6 @@
 import React from 'react';
 import $ from 'jquery';
+import Form from './Form.jsx';
 
 class App extends React.Component {
   constructor(props) {
